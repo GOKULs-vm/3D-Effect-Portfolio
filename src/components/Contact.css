@@ -1,0 +1,35 @@
+.contact-section {
+    text-align: center;
+    padding: 50px 20px;
+    background: linear-gradient(135deg, #292929, #1f1f1f);
+    color: white;
+}
+
+.contact-form {
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.contact-form .form-group {
+    margin-bottom: 15px;
+}
+
+.contact-form .form label {
+    font-weight: bold;
+}
+
+.contact-form .form-control {
+    background: rgba(255, 255, 255, 0.1);
+    border: none;
+    color: white;
+}
+
+.contact-form .form-control:focus {
+    background: rgba(255, 255, 255, 0.2);
+}
+
+.send-button {
+    width: 100%;
+    margin-top: 10px;
+}
